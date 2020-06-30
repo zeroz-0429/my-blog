@@ -1,0 +1,6 @@
+2020-06-22 17:24:15.600  INFO 6660 --- [restartedMain] com.zz.my.blog.MyBlogApplication         : Starting MyBlogApplication on DESKTOP-1RUIQJ6 with PID 6660 (F:\IDEAFile\my-project\my-blog\target\classes started by ZZ in F:\IDEAFile\my-project\my-blog)
+2020-06-22 17:24:15.605  INFO 6660 --- [restartedMain] com.zz.my.blog.MyBlogApplication         : The following profiles are active: pro
+2020-06-22 17:24:18.023  WARN 6660 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-06-22 17:24:18.401  WARN 6660 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-06-22 17:24:18.427  WARN 6660 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-06-22 17:24:18.633  INFO 6660 --- [restartedMain] com.zz.my.blog.MyBlogApplication         : Started MyBlogApplication in 3.812 seconds (JVM running for 5.358)
